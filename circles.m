@@ -1,3 +1,4 @@
+% this is a code to print coefficients of the circle equation 
 circle(1,2,3,9)
 circle(0.3, 4.6, 1.2, 4.6)
 function cof = circle(l, m ,n, o)
